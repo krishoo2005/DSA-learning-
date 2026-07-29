@@ -1,0 +1,2 @@
+print("aghade krushna now  consistently learn a python with dsa ")
+print("aaj start kiya hai promise till job milne tak karunga and last commit bhi add karunga kio finally job i got from my consistent learning for months")
