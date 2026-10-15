@@ -1,0 +1,16 @@
+{
+  "name": "construction-cost-estimator",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Standalone estimator with a local Groq prompt-parsing proxy",
+  "scripts": {
+    "start": "node --env-file=.env server.js",
+    "dev": "node --watch --env-file=.env server.js"
+  },
+  "engines": {
+    "node": ">=20.6.0"
+  },
+  "dependencies": {
+    "better-sqlite3": "^13.0.3"
+  }
+}
